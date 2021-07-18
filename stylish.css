@@ -14,11 +14,10 @@ header,footer{
     align-items: center;
 }
 #txtarea,#output{
-   max-width: 80%;
+    width: 50%;
     height:10vh;
     display: block;
     margin:4rem;
-    margin-right: 5rem;
     padding:1rem;
     border: 2px solid black;
 }
