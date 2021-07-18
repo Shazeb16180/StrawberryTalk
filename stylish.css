@@ -18,6 +18,7 @@ header,footer{
     height:10vh;
     display: block;
     margin:4rem;
+    margin-right: 5rem;
     padding:1rem;
     border: 2px solid black;
 }
