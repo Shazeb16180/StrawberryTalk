@@ -2,7 +2,7 @@
 
 body{
     font-family: 'Work Sans', sans-serif;
-    background-image: url(straw.svg);
+    background-image: url("images/straw.svg");
     margin: 0px;
 
 }
@@ -33,3 +33,19 @@ footer{
     padding: 1rem;
     height: 80px;
 }
+
+footer img{
+    width:30px;
+}
+footer{
+    display: block;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin: 2px;
+    display: inline;
+}
+
